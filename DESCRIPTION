@@ -1,0 +1,10 @@
+Package: qKMeansCluster
+Type: Package
+Title: K Means Cluster for QlikView
+Version: 1.0
+Date: 2014-09-13
+Author: Samuel Pena <spa@qlik.com>
+Maintainer: Samuel Pena <spa@qlik.com>
+Description: Allows any QlikView application to send data to R and run the K
+    means cluster to the data
+License: MIT
